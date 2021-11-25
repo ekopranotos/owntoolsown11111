@@ -1,0 +1,1 @@
+start java -jar owntool-owncloud-sync-tool-sch.jar

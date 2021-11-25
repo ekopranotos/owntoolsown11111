@@ -1,0 +1,7 @@
+2021-11-08 14:30:14 DEBUG SyncMain:151 - Hello from Log4j 2
+2021-11-08 14:30:14 DEBUG SyncMain:152 - This is a Debug Message!
+2021-11-08 14:30:14 INFO  SyncMain:153 - This is an Info Message!
+2021-11-08 14:30:14 ERROR SyncMain:154 - And here comes the Error Message!
+java.lang.RuntimeException: RunRunRun
+	at sync.SyncMain.main(SyncMain.java:154)
+2021-11-08 14:30:16 DEBUG SyncMain:167 - Info 2021-11-08T14:30:14.053: Main Function Success Running
